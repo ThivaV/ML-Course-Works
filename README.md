@@ -25,3 +25,4 @@ pip install xgboost
 pip install statsmodels
 pip install opencv-python
 pip install torch
+pip install jupyterthemes
