@@ -1,17 +1,40 @@
+<!-- Headings -->
+
 # ML Course Work-ZeroToMastery
 
 https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
 
-Create conda environment with python 3.8
-conda create -n TF-ZeroToMastery python=3.8
+<!-- Blockquote -->
 
-Show conda environments
+> Create conda environment with python 3.8
+
+```python
+conda create -n <env_name> python=3.8
+```
+
+<!-- Blockquote -->
+
+> Show available conda environments
+
+```python
 conda env list
+```
 
-Activate the createed environment
-conda activate TF-ZeroToMastery
+<!-- Blockquote -->
 
-Install packages to that environment
+> Activate the created environment
+
+```python
+conda activate <env_name>
+```
+
+<!-- Blockquote -->
+
+> Install packages to that environment
+
+<!-- Code Block -->
+
+```python
 pip install matplotlib
 pip install pandas
 pip install numpy
@@ -26,3 +49,4 @@ pip install statsmodels
 pip install opencv-python
 pip install torch
 pip install jupyterthemes
+```
