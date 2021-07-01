@@ -50,3 +50,11 @@ pip install opencv-python
 pip install torch
 pip install jupyterthemes
 ```
+
+> Dot product
+
+![image-20210701222412485](C:\Users\Thivaharanv\AppData\Roaming\Typora\typora-user-images\image-20210701222412485.png)
+
+![image-20210701222513640](C:\Users\Thivaharanv\AppData\Roaming\Typora\typora-user-images\image-20210701222513640.png)
+
+![image-20210701222626814](C:\Users\Thivaharanv\AppData\Roaming\Typora\typora-user-images\image-20210701222626814.png)
