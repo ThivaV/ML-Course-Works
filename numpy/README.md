@@ -10,7 +10,7 @@
 
 ![image-20210701222412485](https://raw.githubusercontent.com/ThivaV/ML-Course-Works/d81fb6ec3c04c8f1dfb789e3f18c21a1c4eb9ce1/img/Dot%20Product%20-%201.png)
 
-![Dot Product](./img/DotProduct-1.png)
+![Dot Product](../img/DotProduct-1.png)
 
 ---
 
